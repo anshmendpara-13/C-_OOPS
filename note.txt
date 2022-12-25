@@ -1,0 +1,9 @@
+standerd library section
+main fucntion section
+fucntion body section
+<< also function with use cout keyword
+ADT - abstract data type
+encapsulation - it is a techinque of combining the data and the member function in a single unit is known as encapsulation
+built in data type
+user defined data type
+class is user defined data type
